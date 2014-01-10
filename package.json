@@ -6,9 +6,10 @@
   "version": "0.0.1",
   "main": "replaceall.min.js",
   "keywords": [
+    "replace",
     "replaceall",
-    "numeric",
-    "number"
+    "replace all",
+    "string"
   ],
   "scripts": {
     "test": "grunt test"

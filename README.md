@@ -20,6 +20,18 @@ var replaceall = require("replaceall");
 var result = replaceall("instances of this", "with this string", "in this string");
 ```
 
+### Example
+
+```js
+var original = "hello world goodbye world";
+
+replaceall("world", "everyone", original);
+// "hello everyone goodbye everyone"
+
+replaceall("l", "z", original);
+// "hezzo worzd goodbye worzd"
+```
+
 ## License
 
 [MIT License](http://ilee.mit-license.org)
