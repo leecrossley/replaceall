@@ -37,4 +37,10 @@ describe("replaceall", function() {
 
         expect(replaceall(" ", "", original)).toEqual("helloworldagain");
     });
+
+    it("should be case sensitive", function() {
+        var original = "hello world";
+
+        expect(replaceall("Hello", "Goodbye", original)).toEqual("hello world");
+    });
 });
