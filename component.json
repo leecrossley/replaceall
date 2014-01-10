@@ -1,0 +1,20 @@
+{
+  "name": "replaceall",
+  "author": "Lee Crossley <leee@hotmail.co.uk> (http://ilee.co.uk/)",
+  "repo": "leecrossley/replaceall",
+  "description": "Replace all instances in a JavaScript string",
+  "homepage": "http://ilee.co.uk",
+  "version": "0.0.1",
+  "keywords": [
+    "replaceall",
+    "numeric",
+    "number"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "replaceall.js"
+  ]
+}
