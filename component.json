@@ -4,7 +4,7 @@
   "repo": "leecrossley/replaceall",
   "description": "Replace all instances in a JavaScript string",
   "homepage": "http://ilee.co.uk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "replaceall",
     "numeric",
