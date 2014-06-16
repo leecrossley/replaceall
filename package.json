@@ -3,7 +3,7 @@
   "author": "Lee Crossley <leee@hotmail.co.uk> (http://ilee.co.uk/)",
   "description": "Replace all instances in a JavaScript string",
   "homepage": "http://ilee.co.uk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "replaceall.min.js",
   "keywords": [
     "replace",
@@ -22,12 +22,11 @@
     "node": ">= 0.8.x"
   },
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-shell": "~0.6.x",
-    "grunt-contrib-watch": "~0.5.x",
-    "grunt-contrib-jshint": "~0.8.x",
+    "grunt": "~0.4.x",
+    "grunt-cli": "~0.1.x",
+    "grunt-contrib-watch": "~0.6.x",
+    "grunt-contrib-jshint": "~0.10.x",
     "grunt-contrib-jasmine": "~0.6.x",
-    "grunt-contrib-uglify": "~0.4.x",
-    "grunt-cli": "~0.1.x"
+    "grunt-contrib-uglify": "~0.5.x"
   }
 }
