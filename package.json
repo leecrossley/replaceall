@@ -3,7 +3,7 @@
   "author": "Lee Crossley <leee@hotmail.co.uk> (http://ilee.co.uk/)",
   "description": "Replace all instances in a JavaScript string",
   "homepage": "http://ilee.co.uk",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "replaceall.min.js",
   "keywords": [
     "replace",
